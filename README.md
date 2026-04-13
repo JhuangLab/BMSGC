@@ -31,7 +31,7 @@ Stage 1: Normal vs. Abnormal screening → Stage 2: Disease subtyping
 
 ### Clone the Repository
 
-git clone [https://github.com/[JhuangLab]/BMSGC.git](https://github.com/%5BJhuangLab%5D/BMSGC.git)
+git clone [https://github.com/JhuangLab/BMSGC.git](https://github.com/JhuangLab/BMSGC.git)
 
 cd BMSGC
 
@@ -61,7 +61,7 @@ Contact
 
 For questions, issues, or collaboration requests, please contact:
 
--   Project Maintainer: [JhuangLab]
+-   Project Maintainer: JhuangLab
 
 -   GitHub Issues: [https://github.com/JhuangLab/BMSGC/issues](https://github.com/JhuangLab/BMSGC/issues)
 
